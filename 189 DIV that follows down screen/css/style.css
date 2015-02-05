@@ -1,0 +1,11 @@
+#follow{
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	height: 300px;
+	width: 180px;
+	background-color: #f0f0f0;
+	border: 1px solid #404040;
+	padding: 8px;
+}

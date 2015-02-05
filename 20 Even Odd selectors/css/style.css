@@ -1,0 +1,6 @@
+.table, tr, td{
+	border: 1px solid #000;
+}
+.highlight{
+	background-color: #f0f0f0;
+}
